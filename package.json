@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "mkdirp": "^0.5.1",
+    "superagent": "^3.5.2"
+  },
+  "name": "ftl-loader",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuww5511/ftl-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuww5511/ftl-loader/issues"
+  },
+  "homepage": "https://github.com/wuww5511/ftl-loader#readme"
+}
