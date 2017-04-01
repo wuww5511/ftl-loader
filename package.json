@@ -4,7 +4,7 @@
     "mkdirp": "^0.5.1",
     "superagent": "^3.5.2"
   },
-  "name": "ftl-loader",
+  "name": "ftl-loader2",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
